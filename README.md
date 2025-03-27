@@ -1,12 +1,61 @@
-- 👋 Hi, I’m @Lucas-Rocco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Olá! 👋 Eu sou o [Rocco]</h1>
 
-<!---
-Lucas-Rocco/Lucas-Rocco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🚀 Desenvolvedor entusiasta e estudante de Análise e Desenvolvimento de Sistemas
+</p>
+
+---
+
+## 💻 Sobre mim  
+
+🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC.  
+🔧 Possuo formação técnica em **Mecatrônica** e experiência com várias linguagens de programação.  
+🚀 Busco aprimorar minhas habilidades em desenvolvimento de software, automação e inteligência artificial.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
+
+### **💡 Linguagens & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+### **⚡ Ferramentas & Banco de Dados:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📂 Projetos Destacados  
+
+🔹 [**Jogo de Ludo em VBA**](https://github.com/seu-usuario/projeto-ludo) - Implementação de um jogo de Ludo dentro do Excel usando VBA.  
+🔹 [**MMORPG no Roblox**](https://github.com/seu-usuario/projeto-mmorpg) - Desenvolvimento de um jogo massivo com mapa detalhado e sistema de missões.  
+🔹 [**Chatbot com Python**](https://github.com/seu-usuario/projeto-chatbot) - Um chatbot interativo com integração de inteligência artificial.  
+🔹 [**Aplicação de Controle de Estoque em C#**](https://github.com/seu-usuario/projeto-estoque) - Software de gerenciamento de estoque para empresas.  
+
+📌 Veja todos os meus projetos [aqui](https://github.com/seu-usuario?tab=repositories).  
+
+---
+
+## 📈 Estatísticas  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" />
+</p>
+
+---
+
+## 📫 Como me encontrar?  
+
+📧 Email: **seuemail@email.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+🌐 [Portfólio (se tiver)](https://seuportfolio.com)  
+
+---
+
+🚀 **Sempre aprendendo e desenvolvendo novos projetos!** Se tiver alguma sugestão, fique à vontade para entrar em contato. 😃
