@@ -41,34 +41,11 @@
 
 ---
 
-## 📈 Estatísticas  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" />
-</p>
-
----
-
 ## 📫 Como me encontrar?  
 
 📧 Email: **lucaslrocco@email.com**  
 
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-r-ba6938269)  
-🌐 [Portfólio (se tiver)](https://seuportfolio.com)  
+🌐 [Portfólio](https://seuportfolio.com)  
 
 ---
-
-🚀 **Sempre aprendendo e desenvolvendo novos projetos!** Se tiver alguma sugestão, fique à vontade para entrar em contato. 😃
-)  
-🌐 [Portfólio (se tiver)](https://seuportfolio.com)  
-
----
-
-🚀 **Sempre aprendendo e desenvolvendo novos projetos!** Se tiver alguma sugestão, fique à vontade para entrar em contato. 😃
-)  
-🌐 [Portfólio (se tiver)](https://seuportfolio.com)  
-
----
-
-🚀 **Sempre aprendendo e desenvolvendo novos projetos!** Se tiver alguma sugestão, fique à vontade para entrar em contato. 😃
