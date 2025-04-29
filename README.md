@@ -33,8 +33,11 @@
 ## 📂 Projetos Destacados  
 
 🔹 [**Suporte de Monitor automatico com IA**](https://github.com/seu-usuario/projeto-chatbot) - Meu Projeto de TCC em Mecatronica, utilizando técnicas de visão computacional em IA para reconhecimento de imagem e assim realizar um controle de movimento de um motor 
+
 🔹 [**To-Do List - Organizador de tarefas e otimizador de estudos**](https://github.com/seu-usuario/projeto-chatbot) - Projeto com objetivo de otimizar tempo e gravar melhor conteudos, organizando tarefas e seu tempo.
+
 🔹 [**Chatbot com Python**](https://github.com/seu-usuario/projeto-chatbot) - Um chatbot interativo com integração de inteligência artificial.  
+
 🔹 [**Aplicação de Controle de Estoque em C#**](https://github.com/seu-usuario/projeto-estoque) - Software de gerenciamento de estoque para empresas.  
 
 📌 Veja todos os meus projetos [aqui](https://github.com/seu-usuario?tab=repositories).  
