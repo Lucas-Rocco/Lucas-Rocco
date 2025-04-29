@@ -36,7 +36,7 @@
 
 🔹 [**To-Do List - Organizador de tarefas e otimizador de estudos**](https://github.com/Lucas-Rocco/To-Do-list) - Projeto com objetivo de otimizar tempo e gravar melhor conteudos, organizando tarefas e seu tempo.
 
-🔹 [**Chatbot com Python**](https://github.com/seu-usuario/projeto-chatbot) - Um chatbot interativo com integração de inteligência artificial.  
+🔹 [**Chatbot com Python**](https://github.com/Lucas-Rocco/CHATBOT) - Um chatbot interativo com integração de inteligência artificial.  
 
 🔹 [**Aplicação de Controle de Estoque em Python**](https://github.com/Lucas-Rocco/organizador) - Software de gerenciamento de estoque para empresas.  
 
