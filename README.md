@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o [Rocco]</h1>
+<h1 align="center">Yohooo! 👋 Eu sou o [Rocco]</h1>
 
 <p align="center">
   🚀 Desenvolvedor entusiasta e estudante de Análise e Desenvolvimento de Sistemas
@@ -32,8 +32,8 @@
 
 ## 📂 Projetos Destacados  
 
-🔹 [**Jogo de Ludo em VBA**](https://github.com/seu-usuario/projeto-ludo) - Implementação de um jogo de Ludo dentro do Excel usando VBA.  
-🔹 [**MMORPG no Roblox**](https://github.com/seu-usuario/projeto-mmorpg) - Desenvolvimento de um jogo massivo com mapa detalhado e sistema de missões.  
+🔹 [**Suporte de Monitor automatico com IA**](https://github.com/seu-usuario/projeto-chatbot) - Meu Projeto de TCC em Mecatronica, utilizando técnicas de visão computacional em IA para reconhecimento de imagem e assim realizar um controle de movimento de um motor 
+🔹 [**To-Do List - Organizador de tarefas e otimizador de estudos**](https://github.com/seu-usuario/projeto-chatbot) - Projeto com objetivo de otimizar tempo e gravar melhor conteudos, organizando tarefas e seu tempo.
 🔹 [**Chatbot com Python**](https://github.com/seu-usuario/projeto-chatbot) - Um chatbot interativo com integração de inteligência artificial.  
 🔹 [**Aplicação de Controle de Estoque em C#**](https://github.com/seu-usuario/projeto-estoque) - Software de gerenciamento de estoque para empresas.  
 
